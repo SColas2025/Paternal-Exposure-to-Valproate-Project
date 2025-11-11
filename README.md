@@ -29,7 +29,7 @@ This SAS code produces numbers and estimates for the Effect estimates in the dif
 This SAS code produces numbers and estimates for the Effect Estimate Adjusted analyses (Table 2)
 
 #### `PS_weight_logistic`, `PSLogisticModelEstimates`, `PSBalanceAssessment_NDD`
-This SAS code produces numbers and estimates for the Variable Estimates from Logistic Regression Propensity Score Model (eTable 11) and estimates for the PS Model Balance analyses (eFigures 3, 4 and 5 and eTable 12)
+These SAS codes produce numbers and estimate for the Variable Estimates from Logistic Regression Propensity Score Model (eTable 11) and estimates for the PS Model Balance analyses (eFigures 3, 4 and 5 and eTable 12)
 
 ### Availability of data and materials
 
@@ -40,6 +40,7 @@ Data are not accessible outside of the specific authorization granted to the inv
 Sandrine Colas `Sandrine.Colas@sanofi.com`
 
 project link: https://github.com/SColas2025/Paternal-Exposure-to-Valproate-Project
+
 
 
 
